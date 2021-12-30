@@ -1,0 +1,7 @@
+.container{
+    background:url("./../../images/a-nice-sun-set-wallpaper.jpg") no-repeat ;
+    background-size: cover;
+    min-height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+}

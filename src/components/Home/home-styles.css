@@ -1,0 +1,14 @@
+.list-container{
+    width: 80vw;
+    min-height: 80vh;
+    background-color: rgba(13, 3, 32, 0.64);
+    margin:75px auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+@media screen and ( max-width: 900px){
+    .list-container{
+        flex-direction: column;
+    }
+}

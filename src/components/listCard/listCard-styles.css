@@ -1,0 +1,51 @@
+.list-card h4{
+
+    width: 120px;
+    height: 40px;
+    overflow-y: scroll;
+}
+.list-card{
+    border: 1px #eec3ba solid;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px 10px;
+    width: 150px;
+    height: 250px;
+
+}
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: transparent;
+}
+.title-background{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-part{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+.icon-part img{
+    width: 20px;
+    height: 20px;
+    visibility: hidden;
+
+}
+.list-card:hover .icon-part img{
+    visibility: visible;
+}
