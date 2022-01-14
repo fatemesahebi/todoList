@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/todoList/static/css/main.67fcd66c.css",
-    "main.js": "/todoList/static/js/main.a97de6c2.js",
+    "main.js": "/todoList/static/js/main.140d95a3.js",
     "static/media/a-nice-sun-set-wallpaper.jpg": "/todoList/static/media/a-nice-sun-set-wallpaper.6849e0c10c527b1aac0c.jpg",
     "static/media/profilePhoth-fatemeSahebi.jfif": "/todoList/static/media/profilePhoth-fatemeSahebi.b4d627833949cddb85a3.jfif",
     "static/media/kisspng-human-resource-management-system-clip-art-5b30a06b2fac30.png": "/todoList/static/media/kisspng-human-resource-management-system-clip-art-5b30a06b2fac30.5958236615299134511953.a1cdd01665224a6bd83d.png",
     "static/media/best-to-do-list-apps-to-stop-forgetting-things-inner.svg": "/todoList/static/media/best-to-do-list-apps-to-stop-forgetting-things-inner.61e6b82d12f8fbccacdc7d689de1e247.svg",
     "index.html": "/todoList/index.html",
     "main.67fcd66c.css.map": "/todoList/static/css/main.67fcd66c.css.map",
-    "main.a97de6c2.js.map": "/todoList/static/js/main.a97de6c2.js.map"
+    "main.140d95a3.js.map": "/todoList/static/js/main.140d95a3.js.map"
   },
   "entrypoints": [
     "static/css/main.67fcd66c.css",
-    "static/js/main.a97de6c2.js"
+    "static/js/main.140d95a3.js"
   ]
 }
